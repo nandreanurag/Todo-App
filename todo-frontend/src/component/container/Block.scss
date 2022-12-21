@@ -1,0 +1,29 @@
+.block-container{
+    height: 350px;
+    width: 300px;
+    background-color: rgb(249, 217, 217);
+    border-radius: 10px;
+}
+.add-item{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(249, 217, 217);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 400px;
+}
+.input-title{
+    margin-top: 5px;
+}
+.block-container label{
+    font-weight: bold;
+}
+.footer-button-block{
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
